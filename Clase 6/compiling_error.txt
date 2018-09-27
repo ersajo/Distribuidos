@@ -1,0 +1,5 @@
+/cygdrive/c/Users/libra/AppData/Local/Temp/cctYCgRB.o:prac_compo.cpp:(.text+0x87): undefined reference to `PoligonoIrreg::PoligonoIrreg(int)'
+/cygdrive/c/Users/libra/AppData/Local/Temp/cctYCgRB.o:prac_compo.cpp:(.text+0xee): undefined reference to `Coordenada::Coordenada(double, double)'
+/cygdrive/c/Users/libra/AppData/Local/Temp/cctYCgRB.o:prac_compo.cpp:(.text+0x12a): undefined reference to `PoligonoIrreg::agregarCord(Coordenada)'
+/cygdrive/c/Users/libra/AppData/Local/Temp/cctYCgRB.o:prac_compo.cpp:(.text+0x166): undefined reference to `PoligonoIrreg::imprimeCord()'
+collect2: error: ld returned 1 exit status
